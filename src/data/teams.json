@@ -1,0 +1,17 @@
+[
+  {
+    "id": "scarlet-schemers",
+    "name": "Scarlet Schemers",
+    "startingScore": 0
+  },
+  {
+    "id": "golden-fools",
+    "name": "Golden Fools",
+    "startingScore": 0
+  },
+  {
+    "id": "velvet-menaces",
+    "name": "Velvet Menaces",
+    "startingScore": 0
+  }
+]

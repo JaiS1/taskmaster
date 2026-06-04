@@ -1,0 +1,22 @@
+[
+  {
+    "id": "host",
+    "title": "The Host Is Always Right",
+    "text": "The TaskMaster may award points for brilliance, effort, chaos, style, technical compliance, or vibes."
+  },
+  {
+    "id": "read",
+    "title": "Read The Task Exactly",
+    "text": "Once revealed, the task must be followed as written. Creative loopholes are allowed if they are funny enough."
+  },
+  {
+    "id": "teams",
+    "title": "Teams Win Together",
+    "text": "Teams may help each other unless the task says otherwise. Sabotage is only legal when the room applauds."
+  },
+  {
+    "id": "safety",
+    "title": "No Hero Points",
+    "text": "Skip or modify anything that feels unsafe. The funniest version is the one everyone can still laugh about tomorrow."
+  }
+]

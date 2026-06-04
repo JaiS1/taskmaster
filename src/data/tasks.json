@@ -1,0 +1,72 @@
+[
+  {
+    "id": "ach-who",
+    "title": "Ach-who?",
+    "parts": [
+      "Nominate one person from your team.",
+      "Make your nominated teammate genuinely sneeze. Fastest genuine sneeze wins."
+    ]
+  },
+  {
+    "id": "meet-baxter",
+    "title": "Meet X",
+    "parts": [
+      "Teams, pick 2 instruments from the front, one at a time.",
+      "You have a chance to meet X. Each team gets to ask him 2 questions to gather information that everyone will hear. Using all the information you hear, you will have 10 minutes to write a 1 minute song about X."
+    ]
+  },
+  {
+    "id": "shades-of-silence",
+    "title": "Shades of Silence",
+    "parts": [
+      "Everyone select one crayon color.",
+      "Without talking, work with your team to create the most beautiful painting."
+    ]
+  },
+  {
+    "id": "detective",
+    "title": "Detective",
+    "parts": [
+      "Find the secret word.\n\n_ _ _ _"
+    ]
+  },
+  {
+    "id": "dolphins",
+    "title": "Dolphins",
+    "parts": [
+      "Nominate one person from your team. That person must leave the room.",
+      "We are going to decide a secret task that the dolphin does not know. Once the dolphins come back, you cannot speak, gesture, or point. Get the dolphins to do the secret task purely through yays and boos."
+    ]
+  },
+  {
+    "id": "dictionary",
+    "title": "Dictionary.com",
+    "parts": [
+      "Each team, write down two letters on your whiteboard.",
+      "You have 30 seconds to come up with the longest word that is a valid word on Dictionary.com using these letters."
+    ]
+  },
+  {
+    "id": "categories",
+    "title": "Last Word Standing",
+    "parts": [
+      "Line up with your team. The person at the front of each team's line is the speaker.",
+      "Teams take turns. The speaker has 5 seconds to say a valid 4-letter word, then goes to the back of the line. If they fail, that speaker is out and leaves the line. Each time a player is eliminated, the word length increases by 1 letter. Last team with someone still standing wins."
+    ]
+  },
+  {
+    "id": "knot",
+    "title": "Knot or Not",
+    "parts": [
+      "Tie all of your team's hands together in the tightest knot you can safely make.",
+      "Complete the puzzle. Fastest team wins."
+    ]
+  },
+  {
+    "id": "conga-line",
+    "title": "Conga Line",
+    "parts": [
+      "Stand in a line, all facing forward. The person at the back sees a secret image and draws it with their finger on the next person's back. This keeps going down the queue, until the front person draws it on the whiteboard. Best two drawings win."
+    ]
+  }
+]
