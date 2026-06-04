@@ -26,6 +26,29 @@ A Taskmaster-style party game for game nights. Set up teams, pick challenges off
 | Knot or Not | Tie your team's hands into one knot, then race to solve a puzzle. |
 | Conga Line | Draw a secret image finger-by-finger down a line of backs, telephone-style. |
 
+## Make it your own
+
+All the game content lives in plain JSON, so you can swap in your own tasks without touching app code. Edit the file, then `npm run dev` (or refresh) to see changes live.
+
+Tasks live in `src/data/tasks.json`, which is just an array of objects shaped like this:
+
+```json
+{
+  "id": "knot",
+  "title": "Knot or Not",
+  "parts": [
+    "Tie all of your team's hands together in the tightest knot you can safely make.",
+    "Complete the puzzle. Fastest team wins."
+  ]
+}
+```
+
+- `title` is the label shown on the board.
+- `parts` is the prompt itself, revealed one card at a time (step through with the on-screen arrows). Use a single entry for a simple task, or several entries to drip-feed a multi-step task.
+- `id` must be unique. One id is special: a task with `"id": "dictionary"` also renders the shared letter-board widget.
+
+To add a task, drop a new object in the array. To remove one, delete its object. Teams and their starting scores live in `src/data/teams.json`, and the house rules in `src/data/rules.json`, following the same edit-the-JSON-and-refresh pattern.
+
 ## Tech
 
 React 19, TypeScript, Vite, and `lucide-react` for icons. No backend.
