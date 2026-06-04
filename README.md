@@ -1,16 +1,16 @@
 # Drunk TaskMaster
 
-A Taskmaster-style party game for game nights. Set up teams, pick challenges off a board, reveal multi-part tasks (sealed with a wax stamp), award points, and watch the live leaderboard. Built as a fast, no-install web app — everything runs in the browser and persists locally, so you can pause a session mid-party and resume right where you left off.
+A Taskmaster-style party game for game nights. Set up teams, pick challenges off a board, reveal multi-part tasks (sealed with a wax stamp), award points, and watch the live leaderboard. Built as a fast, no-install web app. Everything runs in the browser and persists locally, so you can pause a session mid-party and resume right where you left off.
 
 ## Features
 
-- **Team setup** — add, rename, and reorder teams (ships with three presets)
-- **Task board** — nine built-in challenges, marked complete as you go
-- **Task reveal** — multi-part prompts with a wax-seal reveal, plus per-task widgets (e.g. the Dictionary letter board)
-- **Scoring** — per-round point awards with a live, ranked leaderboard drawer
-- **Built-in timer** — countdown or stopwatch for timed tasks
+- **Team setup**: add, rename, and reorder teams (ships with three presets)
+- **Task board**: nine built-in challenges, marked complete as you go
+- **Task reveal**: multi-part prompts with a wax-seal reveal, plus per-task widgets (e.g. the Dictionary letter board)
+- **Scoring**: per-round point awards with a live, ranked leaderboard drawer
+- **Built-in timer**: countdown or stopwatch for timed tasks
 - **House rules** screen
-- **Session persistence** — saved to `localStorage`; resume any time
+- **Session persistence**: saved to `localStorage`, resume any time
 
 ## The tasks
 
